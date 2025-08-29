@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function ShopCategory() {
+export const ShopCategory = () => {
   return (
     <div>ShopCategory</div>
   )
 }
+
+
