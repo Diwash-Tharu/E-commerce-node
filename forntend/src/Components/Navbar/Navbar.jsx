@@ -5,7 +5,7 @@ import logo from "../Assets/logo.png"
 import cart_icon from "../Assets/cart_icon.png"
 export const Navbar = () => {
 
-    const [menu, setMenu]= useState("shop");
+    const [menu, setMenu]= useState("");
 
     return (
     <div className='navbar'>
