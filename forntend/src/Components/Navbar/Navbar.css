@@ -4,7 +4,7 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
-    background-color: rgb(165, 165, 165);
+    background-color: rgb(255, 251, 251);
 }
 .nav-logo{
     display: flex;
@@ -23,9 +23,10 @@
     align-items: center;
     list-style: none;
     gap: 50px;
-    color: rgb(70, 70, 70);
+    color: rgb(225, 225, 225);
     font-size:20px;
     font-weight: 500px;
+    
 }
 
 .nav-menu li{
@@ -35,6 +36,12 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+    /* color: seagreen; */
+}
+
+.nav-menu li a{
+    text-decoration: none;
+    color: black;
 }
 
 .nav-menu hr{
