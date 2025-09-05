@@ -1,0 +1,10 @@
+.offers{
+    width: 65%;
+    height: 60vh;
+    display: flex;
+    margin: auto;
+    padding:  0px 140px;
+    margin-bottom: 150px;
+    background: linear-gradient(180deg, rgb(198, 183, 197), rgb(228, 228, 228) 60%);
+
+}
